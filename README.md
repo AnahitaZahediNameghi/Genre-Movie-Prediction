@@ -1,4 +1,4 @@
-Text Classification)
+ Multi-label Classification)
 This repository contains a project focused on predicting the genres of TV shows and movies through a multi-label classification task. The project is divided into two main 
 sections: Data Analytics and Data Science.
 
